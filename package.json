@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-no-vue-2",
-  "version": "0.0.0",
+  "version": "0.0.2",
   "description": "Stops your from importing from vue 2",
   "keywords": [
     "eslint",

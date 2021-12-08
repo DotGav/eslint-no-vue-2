@@ -25,7 +25,7 @@ RuleTester.setDefaultConfig({
 // Tests
 //------------------------------------------------------------------------------
 
-const ERROR_MSG = "STOP IMPORTING FROM VUE-2!!!!!!!!";
+const ERROR_MSG = "STOP BEING AN IDIOT SPENCER IMPORTING FROM VUE-2!!!!!!!!";
 
 const ruleTester = new RuleTester();
 ruleTester.run("no-vue-2", rule, {
